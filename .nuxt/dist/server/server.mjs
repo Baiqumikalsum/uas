@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/LENOVO/Documents/umi/Uas_framework/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

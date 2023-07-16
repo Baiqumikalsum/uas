@@ -1,0 +1,64 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/.nuxt/types/nitro-imports"
+      ],
+      "#paths": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework"
+      ],
+      "~/*": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/*"
+      ],
+      "@": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework"
+      ],
+      "@/*": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/*"
+      ],
+      "~~": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework"
+      ],
+      "~~/*": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/*"
+      ],
+      "@@": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework"
+      ],
+      "@@/*": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/*"
+      ],
+      "assets": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/assets"
+      ],
+      "assets/*": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/assets/*"
+      ],
+      "public": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/public"
+      ],
+      "public/*": [
+        "C:/Users/LENOVO/Documents/umi/Uas_framework/public/*"
+      ]
+    }
+  },
+  "include": [
+    "C:/Users/LENOVO/Documents/umi/Uas_framework/.nuxt/types/nitro-nuxt.d.ts",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ]
+}
